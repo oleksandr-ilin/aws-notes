@@ -1,5 +1,24 @@
 # Networking
 
+
+## Knowledge of:
+
+- AWS Global Infrastructure
+- AWS networking concepts (for example, Amazon Virtual Private Cloud [Amazon VPC], AWS Direct Connect, AWS VPN, transitive routing, AWS container services)
+- Hybrid DNS concepts (for example, Amazon Route 53 Resolver, on-premises DNS integration)
+- Network segmentation (for example, subnetting, IP addressing, connectivity among VPCs)
+- Network traffic monitoring
+
+## Skills in:
+
+- Evaluating connectivity options for multiple VPCs
+- Evaluating connectivity options for on-premises, co-location, and cloud integration
+- Selecting AWS Regions and Availability Zones based on network and latency requirements
+- Troubleshooting traffic flows by using AWS tools
+- Using service endpoints for service integrations
+
+    Using service endpoints for service integrations
+
 ## Types
 
 - **Amazon Virtual Private Cloud (Amazon VPC)**
